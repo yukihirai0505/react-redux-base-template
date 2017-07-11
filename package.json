@@ -46,7 +46,6 @@
     "redux-logger": "^3.0.1"
   },
   "dependencies": {
-    "axios": "0.13.1",
     "chart.js": "2.5.0",
     "history": "^4.6.1",
     "immutable": "^3.8.1",
